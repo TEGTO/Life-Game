@@ -52,6 +52,7 @@ Each generation is a pure function of the preceding one. The rules continue to b
 > #### You may use the code or sounds as you want.
 __________________________________
 
-<img src="https://media.giphy.com/media/k2ADBokoEfxhVRQIr3/giphy.gif" width="450" height="300" /> <img src="https://media.giphy.com/media/QN9gi533cdWT7rs7dr/giphy.gif" width="450" height="300" />
-<img src="https://media.giphy.com/media/Tl6L1n7elqBUNwfUlE/giphy.gif" width="450" height="300" />
-<img src="https://media.giphy.com/media/itLlADeHj2KEXZQTRK/giphy.gif" width="450" height="300" />
+<img src="https://media.giphy.com/media/k2ADBokoEfxhVRQIr3/giphy.gif" width="600" height="375" /> 
+<img src="https://media.giphy.com/media/QN9gi533cdWT7rs7dr/giphy.gif" width="600" height="375" />
+<img src="https://media.giphy.com/media/Tl6L1n7elqBUNwfUlE/giphy.gif" width="600" height="375" />
+<img src="https://media.giphy.com/media/itLlADeHj2KEXZQTRK/giphy.gif" width="600" height="375" />
